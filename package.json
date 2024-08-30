@@ -1,6 +1,6 @@
 {
   "name": "simple-react-webcam",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple webcam component for react",
   "main": "./build/index.js",
   "scripts": {
@@ -19,6 +19,11 @@
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10"
   },
+  "keywords": [
+    "React",
+    "webcam",
+    "ReactJS"
+  ],
   "peerDependencies": {
     "react": "^18.3.1"
   }
