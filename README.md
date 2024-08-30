@@ -26,17 +26,16 @@ const WebcamComponent = () => {
 ```
 
 
-### Props
+## Props
 
-
-| Prop Name                      | Type     | Default      | Notes |
+| Prop Name                 | Type     | Default      | Notes                                                                                   |
 |---------------------------|----------|--------------|-----------------------------------------------------------------------------------------|
-| className          | string   |              | className for the underlying video tag                                                  |
-| requestDeclinedCallback | function | () => {}; | Callback function which is triggerred when camera permission
+| className                 | string   |              | className for the underlying video tag                                                  |
+| requestDeclinedCallback   | function | () => {};    | Callback function which is triggerred when camera permission denied                     |
 
 
 
-### Methods
+## Methods
 
 `getCapturedImage` - Returns a base64 encoded string of the current webcam image.
 
