@@ -1,6 +1,6 @@
 {
   "name": "simple-react-webcam",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple webcam component for react",
   "main": "./build/index.js",
   "scripts": {
